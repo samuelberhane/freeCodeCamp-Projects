@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46fad49c-d5bf-4036-a602-5786f7b352ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CS50 problem/problem1-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/four.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing-page/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3 Solution/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (4)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (4)/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/average list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/clown.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/count-word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/data1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/def_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/dic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/dic3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/dict-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/dictionary1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/emoji_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/exercise10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/file_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/intermediate_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/listss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/mbox-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/problem 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/problem-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/string-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Newpython-projects/word-counts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/FB_IMG_16227276469701710.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/FB_IMG_16227276609894442.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/FB_IMG_16227276664370750.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/FB_IMG_16227276664370750~2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/FB_IMG_16227276714972344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/FB_IMG_16227276817896522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/download (1)2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/download1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/download6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/images4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/landing-page-editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio Webpage/tribute-page-main-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursera python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cs50 python course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cs50 python course/.idea/cs50 python course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cs50 python course/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cs50 python course/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cs50 python course/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cs50 python course/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript new/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript new/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/.idea/programiz-python-projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/Hello_World.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/adding_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programiz-python-projects/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/2Dlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Calculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Calculator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/ExponentFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/GuessingGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/INT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/If_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Modules and Pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Reading files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Useful tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Writing to files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/cathing errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/employess.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/if _Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/ifstatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/morgage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/returnstatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/useful_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/whileloop.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BqPZ5KNZQ8UKsAlaEvedkd4gRT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46fad49c-d5bf-4036-a602-5786f7b352ee" name="Changes" comment="" />
+      <created>1657630707109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657630707109</updated>
+    </task>
+    <servers />
+  </component>
+</project>
